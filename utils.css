@@ -1,0 +1,22 @@
+.text-center{
+    text-align: center
+  }
+  .bg-red{
+    background:white;
+  }
+  .mx-auto{
+    justify-content:center;
+  }
+  .felx{
+    display: flex;
+    
+    
+  } 
+  .felx-col{
+    flex-direction:column;
+  } 
+  
+  .items-center {
+    align-items:center;
+    
+  }
